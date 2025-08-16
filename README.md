@@ -79,8 +79,14 @@ Shifted (TTT):    69.98%  (gain: +2.39 pts)
 
 ---
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 **Reference**
 
 Sun, Y., Wang, X., Liu, Z., Miller, J., Efros, A. A., & Hardt, M. (2020).  
 *Test-Time Training with Self-Supervision for Generalization under Distribution Shifts.*  
 ICML 2020. [Paper Link](https://arxiv.org/abs/1909.13231)
+
