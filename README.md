@@ -64,8 +64,8 @@ Example output:
 ```bash
 === Summary ===
 Clean (No-TTT):   87.16%
-Shifted (No-TTT): 67.59%
-Shifted (TTT):    69.98%  (gain: +2.39 pts)
+Shifted (No-TTT): 67.54%
+Shifted (TTT):    70.66%  (gain: +3.12 pts)
 ```
 
 ## Results
@@ -74,9 +74,11 @@ Shifted (TTT):    69.98%  (gain: +2.39 pts)
 | Setting            | Accuracy (%) |
 | ------------------ | ------------ |
 | Clean (No-TTT)     | 87.16        |
-| Shifted (No-TTT)   | 67.59        |
-| Shifted (With TTT) | 69.98 (+2.39)|
+| Shifted (No-TTT)   | 67.54        |
+| Shifted (With TTT) | 70.66 (+3.12)|
 
+
+![Results](results.png)
 
 ---
 
