@@ -73,9 +73,10 @@ Shifted (TTT):    69.98%  (gain: +2.39 pts)
 
 | Setting            | Accuracy (%) |
 | ------------------ | ------------ |
-| Clean (No-TTT)     | \~87         |
-| Shifted (No-TTT)   | \~68         |
-| Shifted (With TTT) | \~70 (+2-3)  |
+| Clean (No-TTT)     | 87.16        |
+| Shifted (No-TTT)   | 67.59        |
+| Shifted (With TTT) | 69.98 (+2.39)|
+
 
 ---
 
